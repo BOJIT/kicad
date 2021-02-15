@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS2421
+D 5A 20V Integrated FET Hot Swap
+K Fuse
+F https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-TPS2421-2DDAR_C128602.pdf
+$ENDCMP
+#
+#End Doc Library
